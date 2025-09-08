@@ -4,6 +4,8 @@ Opera Extension - https://github.com/codelyfe/A11y-Widget-Place-Anywhere-Opera-E
 
 Chrome Extension - https://github.com/codelyfe/A11y-Widget-Place-Anywhere-Chrome-Extension
 
+Firefox Add-on - https://github.com/codelyfe/A11y-Widget-Place-Anywhere-Firefox-Addon
+
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](LICENSE)
 ![Vanilla JS](https://img.shields.io/badge/JS-vanilla-informational)
 ![No Dependencies](https://img.shields.io/badge/deps-none-success)
